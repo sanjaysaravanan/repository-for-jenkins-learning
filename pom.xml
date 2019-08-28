@@ -11,7 +11,7 @@
 	<groupId>com.sovanm.docker</groupId>
 	<artifactId>dockerdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>dockerdemo</name>
 	<description>Demo project for Spring Boot</description>
 
